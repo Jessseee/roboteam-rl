@@ -1,0 +1,5 @@
+click==8.1.7
+numpy==1.26.2
+protobuf==4.25.1
+pyzmq==25.1.2
+zmq==0.0.0
